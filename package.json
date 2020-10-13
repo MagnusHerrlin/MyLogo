@@ -1,0 +1,23 @@
+{
+  "name": "mylogo",
+  "version": "1.0.0",
+  "description": "javascript array of my logo",
+  "main": "logo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MagnusHerrlin/MyLogo.git"
+  },
+  "keywords": [
+    "LCD Assistant",
+    "OLED"
+  ],
+  "author": "Magnus Herrlin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MagnusHerrlin/MyLogo/issues"
+  },
+  "homepage": "https://github.com/MagnusHerrlin/MyLogo#readme"
+}
