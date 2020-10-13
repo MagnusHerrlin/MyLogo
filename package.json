@@ -11,7 +11,8 @@
     "url": "git+https://github.com/MagnusHerrlin/MyLogo.git"
   },
   "keywords": [
-    "LCD Assistant",
+    "LCDAssistant http://en.radzio.dxp.pl/bitmap_converter/",
+    "SSD1306",
     "OLED"
   ],
   "author": "Magnus Herrlin",
